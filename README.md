@@ -6,7 +6,7 @@ This repo holds my experiments on using pre-trained Transformer-based architectu
 # Poetry Generation
 I follow a simple approach for poetry generation. Conditioned on a verse, the model should generate the next verse. Then, this generated verse is used as an input to the model and so on. There are more complicated approaches that would take into account an extended left context, but I leave such approaches for later.
 
-|  **timestep** | **input**  | **output**  |
+|  **timestep** | **Model Input**  | **Model output**  |
 |---|---|---|
 | 1  | فيرجع الصدى  |  كأنه النشيج|
 |  2 |  كأنه النشيج  |  وهو المراد |
