@@ -8,9 +8,10 @@ I follow a simple approach for poetry generation. Conditioned on a verse, the mo
 
 |  **timestep** | **input**  | **output**  |
 |---|---|---|
-| 1  | فيرجع الصدى  |  كأنه النشيج
- |
-|   |   |   |
+| 1  | فيرجع الصدى  |  كأنه النشيج|
+|  2 |  كأنه النشيج  |  وهو المراد |
+|  3 |  وهو المراد |  ... |
+|  4 |  .. |  ... |
 
 
 
